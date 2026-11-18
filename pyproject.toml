@@ -1,0 +1,11 @@
+[project]
+name = "fraud-detection-realtime-investigation"
+version = "0.1.0"
+description = "Real-time fraud detection & investigation using a multi-agent AI system"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.50.0",
+    "python-dotenv>=1.0.0",
+    "rich>=13.7.0",
+]
